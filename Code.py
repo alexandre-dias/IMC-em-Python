@@ -1,5 +1,6 @@
 # Programa desenvolvido para aprimoramento de conhecimento na linguagem Python
 # Início do desenvolvimento: 12/07/2019
+# Final do desenvolvimento: 12/07/2019
 
 # Importando biblioteca de interface gráfica
 import tkinter as tk
